@@ -17,6 +17,7 @@ public class Clase1_BD2 {
     public static void main(String[] args) {
         // TODO code application logic here
         int x=2;
+        System.out.println("VALOR:"+x);
         
     }
     
